@@ -1,0 +1,43 @@
+SAMPLE PREDICTIONS — Logistic Regression + TF-IDF
+============================================================
+
+[✓] Text    : like new payment easy use
+    Actual  : positive
+    Predicted: positive
+
+[✓] Text    : great service clear communication support team
+    Actual  : positive
+    Predicted: positive
+
+[✓] Text    : refund still pending experience frustrating
+    Actual  : negative
+    Predicted: negative
+
+[✓] Text    : app crashes whenever try use analytics
+    Actual  : negative
+    Predicted: negative
+
+[✓] Text    : response team helpful professional
+    Actual  : positive
+    Predicted: positive
+
+[✓] Text    : someone explain difference plans
+    Actual  : neutral
+    Predicted: neutral
+
+[✓] Text    : like new video call easy use
+    Actual  : positive
+    Predicted: positive
+
+[✓] Text    : like new report download easy use
+    Actual  : positive
+    Predicted: positive
+
+[✓] Text    : someone explain difference plans
+    Actual  : neutral
+    Predicted: neutral
+
+[✓] Text    : want understand warranty terms product
+    Actual  : neutral
+    Predicted: neutral
+
